@@ -34,12 +34,12 @@ python main_train.py
 
 ## Dependencies
 - Python 3.9.22
--torch 2.3.1+cu121
--torchvision 0.18.1+cu121
--torchaudio 2.3.1+cu121
--dgl 0.9.0
--torch-geometric 2.6.1
--torch-scatter 2.1.2+pt23cu121
--torch-sparse 0.6.18+pt23cu121
--torch-cluster 1.6.3+pt23cu121
--torch-spline-conv 1.2.2+pt23cu121
+- torch 2.3.1+cu121
+- torchvision 0.18.1+cu121
+- torchaudio 2.3.1+cu121
+- dgl 0.9.0
+- torch-geometric 2.6.1
+- torch-scatter 2.1.2+pt23cu121
+- torch-sparse 0.6.18+pt23cu121
+- torch-cluster 1.6.3+pt23cu121
+- torch-spline-conv 1.2.2+pt23cu121
