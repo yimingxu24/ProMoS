@@ -3,7 +3,7 @@
 <img src="./overview.svg" width="100%">
 
 ## Datasets
-<!-- Dataset available for download [here](https://pan.baidu.com/s/18CK4e2DFHqusMVcyIDwfQw?pwd=ipbu ), extraction code: ipbu -->
+Dataset available for download [here](https://pan.baidu.com/s/1wDwV5_4NHM973_-UWvNPEA), extraction code: 82c5
 
 |    **Dataset**   | **# Nodes** | **# Edges** | **# Features** | **Avg. Degree** | **# Anomalies** | **% Anomaly** | **Split** |
 | :--------------: | ----------: | ----------: | -------------: | --------------: | --------------: | ------------: | :-------: |
