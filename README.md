@@ -1,6 +1,6 @@
 # ProMoS: Prototype-Guided Distillation for Generalist Graph Anomaly Detection
 
-<img src="./overview.svg" width="100%">
+<img src="https://anonymous.4open.science/r/ProMoS/overview.svg" width="100%">
 
 ## Datasets
 Dataset available for download [here](https://pan.baidu.com/s/1wDwV5_4NHM973_-UWvNPEA), extraction code: 82c5
