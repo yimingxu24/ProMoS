@@ -1,6 +1,6 @@
 # Generalist Graph Anomaly Detection via Prototype-Based Distillation
 
-<img src="https://anonymous.4open.science/r/ICML-ProMoS/overview.svg" width="80%">
+<img src="https://anonymous.4open.science/r/ICML-ProMoS/overview.svg" width="70%">
 
 ## Datasets
 Dataset available for download [here](https://pan.baidu.com/s/1wDwV5_4NHM973_-UWvNPEA), extraction code: 82c5
