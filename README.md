@@ -1,4 +1,4 @@
-# ProMoS: Prototype-Guided Distillation for Generalist Graph Anomaly Detection
+# Generalist Graph Anomaly Detection via Prototype-Based Distillation
 
 <img src="https://anonymous.4open.science/r/ProMoS/overview.svg" width="100%">
 
