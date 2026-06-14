@@ -3,7 +3,7 @@
 <img src="./overview.svg" width="70%">
 
 ## Datasets
-Dataset available for download [here](https://pan.baidu.com/s/1IEY3I8PosHQnRMckXlmlIw), extraction code: qrk2
+The datasets and teacher embeddings are available for download [here](https://pan.baidu.com/s/1IEY3I8PosHQnRMckXlmlIw), extraction code: qrk2
 
 
 |    **Dataset**   | **# Nodes** | **# Edges** | **# Features** | **Avg. Degree** | **# Anomalies** | **% Anomaly** | **Split** |
